@@ -1,0 +1,45 @@
+### Base Folders
+/appcache
+/Bundles
+/cfg
+/config
+/HarmonyMods
+/logs
+/MonoBleedingEdge
+/RustDedicated_Data
+/steamapps
+/userdata
+
+### Base Oxide Folders
+/oxide/data
+/oxide/lang
+/oxide/logs
+/oxide/oxide.config.json
+
+### Dejetos Fecais server
+/server/DejetosFecais/serveremoji
+/server/DejetosFecais/companion.id
+/server/DejetosFecais/dejetos_sm_*
+/server/DejetosFecais/Log.EAC.txt
+/server/DejetosFecais/player.blueprints.5.db
+/server/DejetosFecais/player.blueprints.5.db-wal
+/server/DejetosFecais/player.deaths.5.db
+/server/DejetosFecais/player.deaths.5.db-wal
+/server/DejetosFecais/player.identities.5.db
+/server/DejetosFecais/player.identities.5.db-wal
+/server/DejetosFecais/player.states.265.db
+/server/DejetosFecais/player.states.265.db-wal
+/server/DejetosFecais/player.tokens.db
+/server/DejetosFecais/player.tokens.db-wal
+/server/DejetosFecais/sv.files.265.db
+/server/DejetosFecais/sv.files.265.db-wal
+
+### Base Files
+Oxide.Compiler.exe
+RustDedicated.exe
+steam_api64.dll
+steamclient64.dll
+tier0_s64.dll
+UnityCrashHandler64.exe
+UnityPlayer.dll
+vstdlib_s64.dll
